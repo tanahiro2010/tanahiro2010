@@ -7,5 +7,5 @@ My favorite languages are Ruby and JavaScript and Python and Java and C.<br>
 I often use json because I can't use SQL.<br>
 Please teach sql to me.<br>
 
-### ["https://www.youtube.com/channel/UCfYf0nqMxdNcHqrzYf_9Wcw"](My YouTube channel)
-### ["https://www.twitter.com/tanahiro2010Zis"](My Twitter account)
+### [My YouTube channel](https://www.youtube.com/channel/UCfYf0nqMxdNcHqrzYf_9Wcw)
+### [My Twitter account](https://www.twitter.com/tanahiro2010Zis)
