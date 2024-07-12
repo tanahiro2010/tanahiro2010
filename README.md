@@ -9,3 +9,15 @@ Please teach sql to me.<br>
 
 ### [My YouTube channel](https://www.youtube.com/channel/UCfYf0nqMxdNcHqrzYf_9Wcw)
 ### [My Twitter account](https://www.twitter.com/tanahiro2010Zis)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true" />
+</picture>
