@@ -21,3 +21,6 @@ Please teach sql to me.<br>
   />
   <img src="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true" />
 </picture>
+
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1077177658758152253)](https://discord.com/users/1077177658758152253)
