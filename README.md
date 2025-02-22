@@ -5,7 +5,7 @@ I'm 14 years old.<br>
 I like programming and novel.<br>
 My favorite languages are Ruby and JavaScript and Python and php and Java and C.<br>
 
-@ReNovel-offical
+[@ReNovel-offical](https://github.com/ReNovel-offical)<br>
 This is my creating software's offical account.
 
 ### [My YouTube channel](https://www.youtube.com/channel/UCfYf0nqMxdNcHqrzYf_9Wcw)
