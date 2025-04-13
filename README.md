@@ -13,6 +13,7 @@ This is my creating software's offical account.
 
 ## use languages and freamwork
 <img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,nextjs,php,md,mysql,nodejs,discordjs,py,ruby,react" />
+
 ## use platform
 <img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=cloudflare,androidstudio,git,github,powershell,raspberrypi,replit,windows,vercel,linux,aws" />
 
