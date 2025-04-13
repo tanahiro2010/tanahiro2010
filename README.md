@@ -11,6 +11,11 @@ This is my creating software's offical account.
 ### [My YouTube channel](https://www.youtube.com/channel/UCfYf0nqMxdNcHqrzYf_9Wcw)
 ### [My Twitter account](https://www.twitter.com/tanahiro2010Zis)
 
+## use languages and freamwork
+<img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,nextjs,php,md,mysql,nodejs,discordjs,py,ruby,react" />
+## use platform
+<img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=cloudflare,androidstudio,git,github,powershell,raspberrypi,replit,windows,vercel,linux,aws" />
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true&theme=dark"
