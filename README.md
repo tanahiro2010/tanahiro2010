@@ -1,191 +1,253 @@
-# 👋 Hi, I’m @tanahiro2010
+<!--
+README Styling Guide:
+- 余計な外部リクエストが多いと読み込みが重くなるので必要に応じてコメントアウトして調整してください。
+- SVGバナーやアニメーションは自作して差し替え可能です。
+-->
 
-> 学生エンジニア / Discord Bot 開発 / Web サービス構築 / YouTube クリエイター (登録者 ~200人)
+<p align="center">
+  <!-- Hero Banner (差し替え推奨) -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4f46e5,100:9333ea&height=190&section=header&text=tanahiro2010&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" alt="header" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanahiro2010&style=flat&color=brightgreen)
-[![GitHub Followers](https://img.shields.io/github/followers/tanahiro2010?style=flat&label=Followers)](https://github.com/tanahiro2010?tab=followers)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxx?style=flat&label=YouTube&logo=youtube&color=ff0000)](#) <!-- チャンネルID差し替え -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/tanahiro2010?style=flat&logo=twitter)](https://x.com/tanahiro2010)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&repeat=true&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Student+Engineer;Discord+Bots+%2B+Next.js+%2B+APIs;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat" 
+    alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>学生エンジニア / Discord Bot / Web & API / Next.js / YouTube</strong><br/>
+  <em>Ship fast. Learn faster.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanahiro2010">
+    <img src="https://komarev.com/ghpvc/?username=tanahiro2010&style=flat&color=8b5cf6" alt="views" />
+  </a>
+  <a href="https://github.com/tanahiro2010?tab=followers">
+    <img src="https://img.shields.io/github/followers/tanahiro2010?style=flat&label=Followers&color=6366f1" />
+  </a>
+  <!-- YouTube Channel ID に差し替え -->
+  <img src="https://img.shields.io/badge/YouTube-~200_subs-ff0033?logo=youtube&logoColor=white" />
+  <a href="https://x.com/tanahiro2010">
+    <img src="https://img.shields.io/twitter/follow/tanahiro2010?style=flat&logo=x&color=0f1419" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Work-10b981?style=flat&logo=rocket" />
+</p>
 
 ---
 
-## 🧑‍💻 自己紹介
+## 🪄 About
 
-| 項目 | 内容 |
-|------|------|
-| 名前 | tanahiro2010 |
-| 誕生日 | 2010-08-18 |
-| 活動領域 | Discord Bot / Web Backend / API連携 / ツール作成 |
-| 主言語 | Ruby / Python / Node.js (TypeScript) / C# |
-| スタイル | 「まず動くもの」を最速で形に → 改善と自動化 |
-| 現在 | 案件募集中（学生） |
-| 連絡先 | herentongkegu087@gmail.com |
-| モットー | Ship fast. Learn faster. |
+> 2010年8月18日生。サーバサイドからフロント、Bot、オートメーションまで“動く価値”を最速で届けるのが好き。現在案件募集中。
+
+| Key | Value |
+|-----|-------|
+| 主軸 | Discord Bot / API連携 / Webフルスタック |
+| 得意 | 素早いプロトタイプ → 計測 → 改善（Kaizen Loop） |
+| スタイル | シンプルなコア + モジュール化 + 自動化 |
+| 連絡 | herentongkegu087@gmail.com |
+| 発信 | X / YouTube / GitHub |
+| モットー | Build → Ship → Learn → Iterate |
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-![Ruby](https://img.shields.io/badge/Ruby-e0115f?logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+### Core Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)
 
-### Frameworks / Libraries
-![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=white)
+### Frameworks & Runtime
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0d87c9?logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444?logo=express&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-5865F2?logo=discord&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
-### Databases / Infra
+### Infra / Data / Ops
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-### Tools / Others
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D15?logo=railway&logoColor=white)
+
+### Tooling / Design
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?logo=figma&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 Focus Areas (2025)
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahiro2010&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
+| Theme | 内容 | 現在の打ち手 |
+|-------|------|-------------|
+| Discord Bot | 多言語化 / 権限管理 / 分析 | Eventログ → 可観測性 |
+| Next.js + API | ダッシュボード / Bot管理UI | App Router + Edge 実験 |
+| Automation | CI + 型検査 + Release | GitHub Actions 最適化 |
+| Observability | レイテンシ計測 / ログ整形 | Structured Logging |
+| Learning | Rust / Edge Functions | 小さなユースケース積み上げ |
+
+---
+
+## 📊 Stats & Metrics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahiro2010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
-<p align="left">
-  <img height="140" src="https://github-profile-trophy.vercel.app/?username=tanahiro2010&theme=onedark&column=6&margin-w=10&margin-h=10" alt="trophy" />
+<p align="center">
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=tanahiro2010&theme=onedark&no-bg=true&no-frame=true&column=6" alt="trophy" />
 </p>
 
----
-
-## 🚀 注力していること
-
-- Discord Bot の高度な機能（多言語対応、モデレーション、自動化）
-- API連携 (YouTube / Discord / OpenAI など) を使ったサービス構築
-- Webサービスの MVP 素早い実装 → 運用 → 改善
-- パフォーマンスと再利用性を意識したモジュール設計
-- 学習ログ・制作過程の可視化（YouTube / X）
+<!-- 負荷軽減のため必要ならコメントアウト:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanahiro2010&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+-->
 
 ---
 
-## 🧪 最近のアイデア例 (プレースホルダ)
+## 🧪 Code Micro Samples
 
-| 分類 | 例 |
-|------|----|
-| Discord | Slash Commands / 統計ダッシュボード / ミュージックプレイヤー |
-| Web | APIラッパ / Bot 管理パネル / 学習支援ツール |
-| DevOps | 自動デプロイスクリプト / CI テスト / 依存監視 |
-| Data | ログ解析 / キャッシュ層最適化 / Webhook 分析 |
+<details>
+<summary><strong>Next.js (App Router) - Edge Ready API Route</strong></summary>
 
-（実際の代表リポジトリリンクを後で追記）
+```ts
+// app/api/health/route.ts
+export const runtime = 'edge';
 
----
-
-## 🧷 ピン留め候補（編集して実リポジトリリンクに差し替え）
-
-| プロジェクト | 説明 | 技術 |
-|--------------|------|------|
-| `discord-bot-xxx` | 高機能Discord Bot（モデレーション＋通知） | Node.js / TypeScript / Redis |
-| `api-wrapper-xxx` | 外部API統合ラッパライブラリ | Python / FastAPI |
-| `web-dashboard-xxx` | Bot 管理用ダッシュボード | Ruby on Rails / PostgreSQL |
-| `automation-scripts` | 開発自動化スクリプト集 | Shell / GitHub Actions |
-
----
-
-## 🔄 ワークフロー思想
-
-1. アイデアを小さく分割し即 MVP
-2. テレメトリ & ログ収集
-3. ボトルネック特定 → 自動化
-4. ドキュメント化 & 知識共有
-5. 継続的改善 (Kaizen Loop)
-
-```mermaid
-flowchart LR
-Idea --> MVP --> Feedback --> Iterate --> Automate --> Scale --> Idea
+export async function GET() {
+  return new Response(JSON.stringify({ status: 'ok', time: Date.now() }), {
+    headers: { 'Content-Type': 'application/json' }
+  });
+}
 ```
+</details>
 
----
+<details>
+<summary><strong>Discord.js Interaction Handler (Pattern)</strong></summary>
 
-## 🛎 コラボ・案件募集
+```ts
+import { ChatInputCommandInteraction } from 'discord.js';
 
-- 学生ながら開発経験を積極的に拡張中
-- 小規模～個人開発補助 / Bot 制作 / API連携歓迎
-- 技術的チャレンジ・高速試作が得意
-
-お気軽にメールへ: **herentongkegu087@gmail.com**
-
----
-
-## 🎥 コンテンツ / 発信
-
-| プラットフォーム | 備考 |
-|------------------|------|
-| YouTube | 登録者 ~200人（伸ばし中） |
-| X(Twitter) | 日々の進捗 / Tips / 思考共有 |
-| GitHub | 実験・公開コード / 継続的改善 |
-
----
-
-## 💡 今後の目標
-
-- OSS への継続的コントリビュート
-- TypeScript + Rust（将来）での高速化領域探索
-- 自作サービスのユーザ 1,000人到達
-- 技術×教育系コンテンツ配信の体系化
-
----
-
-## 🧰 開発スニペット（例）
-
-```ruby
-# Simple Rack-like endpoint idea (concept)
-require 'json'
-def handler(req)
-  { status: 200, body: { ok: true, time: Time.now }.to_json }
-end
+export async function handlePing(interaction: ChatInputCommandInteraction) {
+  const started = performance.now();
+  await interaction.reply({ content: '🏓 Pong!', ephemeral: true });
+  const ms = performance.now() - started;
+  console.log('[PING]', ms.toFixed(2), 'ms');
+}
 ```
+</details>
+
+<details>
+<summary><strong>FastAPI Minimal Service</strong></summary>
 
 ```python
-# FastAPI micro endpoint (concept)
 from fastapi import FastAPI
 app = FastAPI()
 
-@app.get("/health")
-def health():
-    return {"status": "ok"}
+@app.get("/metrics")
+def metrics():
+    return {"uptime_sec": 1234, "version": "0.1.0"}
+```
+</details>
+
+<details>
+<summary><strong>Rails Controller Snippet</strong></summary>
+
+```ruby
+class HealthController < ApplicationController
+  def index
+    render json: { ok: true, time: Time.now.utc.iso8601 }
+  end
+end
+```
+</details>
+
+---
+
+## 🔄 Workflow Philosophy
+
+```mermaid
+flowchart LR
+  Idea((Idea)) --> Scope[Scope Small]
+  Scope --> MVP[MVP Build]
+  MVP --> Measure[Metrics / Logs]
+  Measure --> Iterate{Iterate}
+  Iterate --> Automate[Automate Repetitive]
+  Automate --> Scale[Scale / Refine]
+  Scale --> Idea
+```
+
+- 余計な抽象化は後回し
+- 計測できない改善は“感想”
+- 先に価値を届けてフィードバック最速化
+
+---
+
+## 🤝 Work / Collab
+
+| 提供できること | 例 |
+|----------------|----|
+| Discord Bot | 多機能管理 / 分析 / API連携 |
+| Web / Dashboard | Next.js + API 統合UI |
+| Automation | CI/CD・型チェック・Lint整備 |
+| API連携 | YouTube / Discord / OpenAI 等 |
+| MVP構築 | 要件整理 → 最小実装 → 改善 |
+
+> 小さなスパンでアウトプット → 進捗可視化を重視しています。
+
+📬 連絡: **herentongkegu087@gmail.com**
+
+---
+
+## 📡 Public Presence
+
+| Platform | 内容 |
+|----------|------|
+| GitHub | コード / 実験 |
+| X (Twitter) | 進捗ログ / メモ |
+| YouTube | 学習・制作過程（登録 ~200） |
+
+---
+
+## 🎯 Goals (Short / Mid)
+
+| 期間 | 目標 |
+|------|------|
+| Q3 | Next.js + Edge 実践・Bot拡張 |
+| Q4 | OSS コントリビュート継続 / メトリクス高度化 |
+| 1Y | 自作サービス ユーザ 1,000 到達 |
+| Long | Rust 導入 / 分散処理学習 |
+
+---
+
+## 🛠 Quick Scripts (Idea)
+
+```bash
+# update-all (例) : 依存を一括安全更新
+for d in $(ls -d */); do
+  (cd "$d" && [ -f package.json ] && npm update)
+done
 ```
 
 ---
 
-## 📫 Contact & Links
+<p align="center">
+  <sub>Thanks for visiting — If you like it, consider leaving a ⭐</sub><br/>
+  <sub>「継続は最強のコンパイラ」</sub>
+</p>
 
-- ✉️ Email: `herentongkegu087@gmail.com`
-- 🐦 Twitter / X: [@tanahiro2010](https://x.com/tanahiro2010)
-- 🧪 GitHub: [github.com/tanahiro2010](https://github.com/tanahiro2010)
-
----
-
-## 📝 備考（編集ガイド）
-
-- YouTube のバッジ: チャンネルIDに差し替えて有効化
-- ピン留め: 実際の代表リポジトリ URL に差し替え
-- Stats サービス（vercel系）は時間で停止する場合あり → ミラー検討
-- Trophy/Stats が遅い場合はコメントアウト可能
-- 必要なら英語版 README (README.en.md) を追加
-
----
-
-最後まで読んでくれてありがとうございます。  
-もしよければ ⭐️ Star やフォローで応援してください！
-
+<!-- Footer minimalist separator -->
+<p align="center">— end —</p>
