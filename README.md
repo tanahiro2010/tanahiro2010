@@ -28,7 +28,7 @@ README Styling Guide:
     <img src="https://img.shields.io/github/followers/tanahiro2010?style=flat&label=Followers&color=6366f1" />
   </a>
   <!-- YouTube Channel ID に差し替え -->
-  <img src="https://img.shields.io/badge/YouTube-~200_subs-ff0033?logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-~250_subs-ff0033?logo=youtube&logoColor=white" />
   <a href="https://x.com/tanahiro2010">
     <img src="https://img.shields.io/twitter/follow/tanahiro2010?style=flat&logo=x&color=0f1419" />
   </a>
@@ -251,3 +251,4 @@ done
 
 <!-- Footer minimalist separator -->
 <p align="center">— end —</p>
+
