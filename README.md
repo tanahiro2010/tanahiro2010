@@ -102,8 +102,8 @@ README Styling Guide:
 ## 📊 Stats & Metrics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tanahiro2010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahiro2010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="150" src="https://stats.tanahiro2010.com/api?username=tanahiro2010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="150" src="https://stats.tanahiro2010.com/api/top-langs/?username=tanahiro2010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
