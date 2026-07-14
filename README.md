@@ -108,15 +108,14 @@ README Styling Guide:
 
 <p align="center">
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=tanahiro2010&theme=onedark&no-bg=true&no-frame=true&column=6" alt="trophy" />
-  
-  [![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=tanahiro2010&fix=true&time=1782780343282)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
 </p>
 
-<!-- 負荷軽減のため必要ならコメントアウト:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanahiro2010)](https://git.io/streak-stats)
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanahiro2010&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
--->
 
 ---
 
