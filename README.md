@@ -13,6 +13,8 @@ Beyond writing code, I'm passionate about open source, sharing knowledge, and br
 [![GitHub](https://img.shields.io/badge/GitHub-tanahiro2010-181717?logo=github&logoColor=white)](https://github.com/tanahiro2010)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:herentongkegu087@gmail.com)
 
+https://tanahiro2010.com
+
 ---
 
 ## 🏆 Highlights
