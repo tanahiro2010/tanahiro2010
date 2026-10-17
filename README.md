@@ -98,7 +98,7 @@ Feel free to reach out for collaborations, speaking opportunities, or software d
 
 - **X:** [@tanahiro2010](https://x.com/tanahiro2010)
 - **GitHub:** [tanahiro2010](https://github.com/tanahiro2010)
-- **Email:** [herentongkegu087@gmail.com](mailto:herentongkegu087@gmail.com)
+- **Email:** [tanahiro2010@under18.dev](mailto:tanahiro2010@under18.dev)
 
 ---
 
