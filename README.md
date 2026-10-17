@@ -37,9 +37,9 @@ https://tanahiro2010.com
 
 ### Experience
 
-- **KOMPEITO Inc.** — Software Engineering Intern
+- **A Listed Company.** — Software Engineering Intern
 - **Fenrir Inc.** — Development Program Participant
-- **Akatsuki SecHack** — Selected Training Participant
+- **Akatsuki Project** — Selected Alpha+ Project Training Participant
 
 ---
 
