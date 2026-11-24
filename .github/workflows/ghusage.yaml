@@ -1,0 +1,53 @@
+name: Update GitHub activity
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 毎日 00:00 UTC(日本時間 9:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 実行のあいだでキャッシュを残し、毎回の同期を差分だけにする
+      - uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/ghusage
+          key: ghusage-${{ github.run_id }}
+          restore-keys: ghusage-
+
+      - name: Build the report
+        env:
+          GH_TOKEN: ${{ secrets.GHUSAGE_TOKEN }}
+          GHUSAGE_DATA_DIR: ${{ runner.temp }}/ghusage
+        run: |
+          npx -y ghusage@latest overview --since 30d --public-only \
+            --timezone Asia/Tokyo --require-complete \
+            --format markdown > "$RUNNER_TEMP/ghusage.md"
+
+      - name: Put it into the README
+        run: |
+          python3 - "$RUNNER_TEMP/ghusage.md" README.md <<'EOF'
+          import re, sys
+          report = open(sys.argv[1], encoding="utf-8").read()
+          readme = open(sys.argv[2], encoding="utf-8").read()
+          start, end = "<!-- ghusage:start -->", "<!-- ghusage:end -->"
+          pattern = re.compile(re.escape(start) + ".*?" + re.escape(end), re.S)
+          if not pattern.search(readme):
+              sys.exit("markers not found in README.md")
+          readme = pattern.sub(lambda _: f"{start}\n{report}\n{end}", readme)
+          open(sys.argv[2], "w", encoding="utf-8").write(readme)
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update GitHub activity"
+          git push
