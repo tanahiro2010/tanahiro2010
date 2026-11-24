@@ -90,6 +90,13 @@ I enjoy turning ideas into working software, from early prototypes to real-world
 
 ---
 
+## ghusage
+
+<!-- ghusage:start -->
+<!-- ghusage:end -->
+
+---
+
 ## 📫 Get in Touch
 
 I'm always happy to connect with fellow developers, open-source contributors, and community organizers.
